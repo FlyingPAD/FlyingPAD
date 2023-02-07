@@ -1,4 +1,4 @@
-### Let's Rock ! 
+### Let's fly with our own wings ! 
 
 <!--
 **FlyingPAD/FlyingPAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
