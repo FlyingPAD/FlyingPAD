@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Tony</h1>
 
 <p align="center">
-  <strong>Developer · Musician · Creative technologist</strong>
+  <strong>Developer · Music Producer · Creative Technologist</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-My work lives somewhere between **software development, music, audiovisual production, education and creative experimentation**.
+My work lives somewhere between **software development, music production, image, video, education and creative experimentation**.
 
 Some projects solve problems.  
 Some explain things.  
@@ -35,17 +35,35 @@ I usually work with **Clean Architecture**, **DDD**, **CQS / CQRS**, clear separ
 
 I like code that stays understandable when a project starts growing.
 
-## 🎵 Music & audiovisual
+## 🎵 Audio & music production
 
-Music has been part of my work long before software development.
+I'm a **music producer and multi-instrumentalist**, with the same end-to-end mindset I bring to software.
 
-Production, composition, recording, video and audiovisual experiments still take an important place in what I create.
+Writing, arranging, recording, editing, mixing, mastering and delivery are all part of the same production chain for me.
+
+`Cubase Pro` · `Nuendo`
+
+Music came before software development, and it still shapes the way I approach creative and technical work.
+
+## 🖼️ Image
+
+For fast multi-layer work, compositing and retouching, I mostly use **Paint.NET**.
+
+It's lightweight, quick and usually gets out of the way, which is exactly what I want from a production tool.
+
+I'm also familiar with **Adobe Photoshop**, but Paint.NET is often my first choice for fast day-to-day work.
+
+## 🎬 Video
+
+I handle video editing and post-production mainly with **Adobe Premiere Pro**.
+
+It is usually the final step where music, image, generated material and editing come together.
 
 ## 🧪 Creative experiments
 
 I also spend a fair amount of time building and testing **generative image and video workflows**, especially with **ComfyUI**.
 
-That includes model testing, custom workflows, image-to-video pipelines, LoRAs, iteration, compositing and post-production, usually as part of a broader end-to-end creative process.
+That includes model testing, custom workflows, image-to-video pipelines, LoRAs, iteration, compositing and post-production.
 
 Not everything needs to become a product.
 
