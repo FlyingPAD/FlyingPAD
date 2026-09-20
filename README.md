@@ -45,7 +45,7 @@ Production, composition, recording, video and audiovisual experiments still take
 
 I also spend a fair amount of time building and testing **generative image and video workflows**, especially with **ComfyUI**.
 
-That includes model testing, custom workflows, image-to-video pipelines, LoRAs, iteration, compositing and post-production — usually as part of a broader end-to-end creative process.
+That includes model testing, custom workflows, image-to-video pipelines, LoRAs, iteration, compositing and post-production, usually as part of a broader end-to-end creative process.
 
 Not everything needs to become a product.
 
