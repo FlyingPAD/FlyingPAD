@@ -28,7 +28,7 @@ Some exist simply because I wanted to see if they could work.
 
 ## 💻 Development
 
-Mostly **.NET and Angular**, with an end-to-end approach: architecture, backend, frontend, data and delivery.
+Mostly **.NET and Angular**, with an end-to-end approach across architecture, backend, frontend, data and delivery.
 
 `ASP.NET Core` · `EF Core` · `MediatR` · `FluentValidation`  
 `Angular` · `TypeScript` · `RxJS` · `Signals` · `SCSS`
@@ -45,15 +45,21 @@ I work across the full production chain, from writing and arranging to recording
 
 `Cubase Pro` · `Nuendo`
 
-Music came before software development, and it still shapes the way I approach creative and technical work.
+Music came before software development.
+
+It still shapes the way I approach creative and technical work.
 
 ## 🧪 Creative technology
 
 I build and test **generative image and video workflows**, mostly around **ComfyUI**.
 
-`ComfyUI` · `SDXL` · `WAN` · `LoRA workflows` · `Paint.NET` · `Adobe Premiere Pro`
+`ComfyUI` · `SDXL` · `WAN 2.2` · `MiniMax H3` · `LoRAs` · `T2V` · `I2V` · `Adobe Premiere Pro` · `Paint.NET`
 
-That can mean model testing, custom workflows, image-to-video pipelines, compositing, editing and post-production.
+I work with **text-to-video**, **image-to-video**, **single-frame animation**, **first-to-last-frame workflows** and **reference-driven generation**.
+
+A lot of that work revolves around model testing, workflow design, prompt iteration, temporal consistency, reference fidelity, motion control, compositing, editing and post-production.
+
+I also spend time comparing models and generation strategies rather than treating the tool itself as the workflow.
 
 The tools are just parts of the pipeline.
 
@@ -67,7 +73,9 @@ Sometimes building the thing is the point.
 
 A project about **music, acoustics, history and learning**.
 
-The idea is simple: understand how things work, explain them clearly, and make the technical side of music a little less intimidating.
+The idea is simple.
+
+Understand how things work, explain them clearly, and make the technical side of music a little less intimidating.
 
 ---
 
