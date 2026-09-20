@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---
@@ -25,11 +26,27 @@ Some exist simply because I wanted to see if they could work.
 
 ## 💻 Development
 
-Mostly **.NET and Angular**, sometimes whatever else makes sense for the job.
+I mainly work with **.NET / C# on the backend** and **Angular / TypeScript on the frontend**.
 
-`ASP.NET Core` · `EF Core` · `TypeScript` · `Clean Architecture` · `CQRS` · `APIs`
+On the backend, I usually lean toward **Clean Architecture**, **CQRS** and explicit separation of concerns, with tools such as:
 
-I like code that stays understandable when a project starts growing.
+`ASP.NET Core` · `EF Core` · `MediatR` · `FluentValidation` · `REST APIs`
+
+On the frontend:
+
+`Angular` · `TypeScript` · `RxJS` · `Signals` · `SCSS`
+
+And around the code:
+
+`Git` · `GitHub Actions` · `Azure DevOps` · `Node.js`
+
+I like code that stays understandable when a project starts growing — clear boundaries, predictable data flow, boring infrastructure where boring is a good thing.
+
+## 🧰 Toolbox
+
+I am not particularly attached to tools for the sake of tools. If a project needs something else, I use something else.
+
+Beyond my main stack, I also work with **Python**, **JavaScript**, lightweight backend tooling and whatever glue is useful to get an idea running.
 
 ## 🎵 Music & audiovisual
 
@@ -40,6 +57,8 @@ Production, composition, recording, video and audiovisual experiments still take
 ## 🧪 Creative experiments
 
 I also spend a fair amount of time exploring tools, workflows and ideas around **generative AI, image, video, interactive experiences and creative tooling**.
+
+That usually means testing models, building workflows, prototyping interfaces, wiring things together and seeing how far an idea can be pushed before it becomes ridiculous.
 
 Not everything needs to become a product.
 
