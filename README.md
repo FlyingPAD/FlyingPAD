@@ -18,7 +18,9 @@
 
 ---
 
-My work lives somewhere between **software development, music production, image, video, education and creative experimentation**.
+My work lives somewhere between **software development, music production, generative media, education and creative experimentation**.
+
+I tend to work end-to-end, from the initial idea to something that actually runs, sounds or plays.
 
 Some projects solve problems.  
 Some explain things.  
@@ -31,39 +33,31 @@ Mostly **.NET and Angular**, with an end-to-end approach: architecture, backend,
 `ASP.NET Core` · `EF Core` · `MediatR` · `FluentValidation`  
 `Angular` · `TypeScript` · `RxJS` · `Signals` · `SCSS`
 
-I usually work with **Clean Architecture**, **DDD**, **CQS / CQRS**, clear separation of concerns and CI/CD pipelines that keep the delivery side as clean as the code.
+I usually work with **Clean Architecture**, **DDD**, **CQS / CQRS**, clear separation of concerns and CI/CD.
 
 I like code that stays understandable when a project starts growing.
 
-## 🎵 Audio & music production
+## 🎵 Music production
 
-I'm a **music producer and multi-instrumentalist**, with the same end-to-end mindset I bring to software.
+I'm a **music producer and multi-instrumentalist**.
 
-Writing, arranging, recording, editing, mixing, mastering and delivery are all part of the same production chain for me.
+I work across the full production chain, from writing and arranging to recording, editing, mixing, mastering and delivery.
 
 `Cubase Pro` · `Nuendo`
 
 Music came before software development, and it still shapes the way I approach creative and technical work.
 
-## 🖼️ Image
+## 🧪 Creative technology
 
-For fast multi-layer work, compositing and retouching, I mostly use **Paint.NET**.
+I build and test **generative image and video workflows**, mostly around **ComfyUI**.
 
-It's lightweight, quick and usually gets out of the way, which is exactly what I want from a production tool.
+`ComfyUI` · `SDXL` · `WAN` · `LoRA workflows` · `Paint.NET` · `Adobe Premiere Pro`
 
-I'm also familiar with **Adobe Photoshop**, but Paint.NET is often my first choice for fast day-to-day work.
+That can mean model testing, custom workflows, image-to-video pipelines, compositing, editing and post-production.
 
-## 🎬 Video
+The tools are just parts of the pipeline.
 
-I handle video editing and post-production mainly with **Adobe Premiere Pro**.
-
-It is usually the final step where music, image, generated material and editing come together.
-
-## 🧪 Creative experiments
-
-I also spend a fair amount of time building and testing **generative image and video workflows**, especially with **ComfyUI**.
-
-That includes model testing, custom workflows, image-to-video pipelines, LoRAs, iteration, compositing and post-production.
+The goal is to get from an idea to a finished result without losing control of the process.
 
 Not everything needs to become a product.
 
