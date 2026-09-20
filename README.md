@@ -26,27 +26,14 @@ Some exist simply because I wanted to see if they could work.
 
 ## 💻 Development
 
-I mainly work with **.NET / C# on the backend** and **Angular / TypeScript on the frontend**.
+Mostly **.NET and Angular**, with an end-to-end approach: architecture, backend, frontend, data and delivery.
 
-On the backend, I usually lean toward **Clean Architecture**, **CQRS** and explicit separation of concerns, with tools such as:
-
-`ASP.NET Core` · `EF Core` · `MediatR` · `FluentValidation` · `REST APIs`
-
-On the frontend:
-
+`ASP.NET Core` · `EF Core` · `MediatR` · `FluentValidation`  
 `Angular` · `TypeScript` · `RxJS` · `Signals` · `SCSS`
 
-And around the code:
+I usually work with **Clean Architecture**, **CQS / CQRS**, clear separation of concerns and CI/CD pipelines that keep the delivery side as clean as the code.
 
-`Git` · `GitHub Actions` · `Azure DevOps` · `Node.js`
-
-I like code that stays understandable when a project starts growing — clear boundaries, predictable data flow, boring infrastructure where boring is a good thing.
-
-## 🧰 Toolbox
-
-I am not particularly attached to tools for the sake of tools. If a project needs something else, I use something else.
-
-Beyond my main stack, I also work with **Python**, **JavaScript**, lightweight backend tooling and whatever glue is useful to get an idea running.
+I like code that stays understandable when a project starts growing.
 
 ## 🎵 Music & audiovisual
 
@@ -56,9 +43,9 @@ Production, composition, recording, video and audiovisual experiments still take
 
 ## 🧪 Creative experiments
 
-I also spend a fair amount of time exploring tools, workflows and ideas around **generative AI, image, video, interactive experiences and creative tooling**.
+I also spend a fair amount of time building and testing **generative image and video workflows**, especially with **ComfyUI**.
 
-That usually means testing models, building workflows, prototyping interfaces, wiring things together and seeing how far an idea can be pushed before it becomes ridiculous.
+That includes model testing, custom workflows, image-to-video pipelines, LoRAs, iteration, compositing and post-production — usually as part of a broader end-to-end creative process.
 
 Not everything needs to become a product.
 
