@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>I build things.</em>
+  <em>I build things ...</em>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Mostly **.NET and Angular**, with an end-to-end approach: architecture, backend,
 `ASP.NET Core` · `EF Core` · `MediatR` · `FluentValidation`  
 `Angular` · `TypeScript` · `RxJS` · `Signals` · `SCSS`
 
-I usually work with **Clean Architecture**, **CQS / CQRS**, clear separation of concerns and CI/CD pipelines that keep the delivery side as clean as the code.
+I usually work with **Clean Architecture**, **DDD**, **CQS / CQRS**, clear separation of concerns and CI/CD pipelines that keep the delivery side as clean as the code.
 
 I like code that stays understandable when a project starts growing.
 
